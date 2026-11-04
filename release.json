@@ -1,11 +1,12 @@
 {
   "product": "arxiv-quant-radar-reader",
-  "source_revision": "cc3daea334aeab7cf4451097e3fd75dcfde64aba",
+  "source_revision": "8f125db5ab7a0fb96f043d4f515bc449ea6b94b3",
   "source_visibility": "private",
   "reports": [
     "reports/weekly/2026/2026-W44.md",
     "reports/monthly/2026/2026-10.md"
   ],
   "coverage": "qualified and incomplete",
-  "static_routes": 22
+  "static_routes": 23,
+  "release": "Reader V1.1"
 }

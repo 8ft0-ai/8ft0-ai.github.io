@@ -2,9 +2,9 @@
 
 This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
 
-Built from the separately reviewed and merged private source commit \`cc3daea334aeab7cf4451097e3fd75dcfde64aba\` in \`8ft0-ai/arxiv-quant-radar\`.
+Built from the separately reviewed and merged private source commit \`8f125db5ab7a0fb96f043d4f515bc449ea6b94b3\` in \`8ft0-ai/arxiv-quant-radar\`.
 
-- Static output: 22 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
+- Static output: 23 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
 - Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
 - No accounts, server runtime, analytics or remote inference.
 - Initial public release retains \`noindex,nofollow\` pending physical iPhone and assisted screen-reader acceptance.
@@ -17,3 +17,7 @@ Built from the separately reviewed and merged private source commit \`cc3daea334
 4. Verify the published homepage, a paper, source notes, dashboard and assets. If verification fails, revert the public repository release commit and push to \`main\` to restore the prior deployment.
 
 Tracked in source Issue #475. Public Pages hosting is not an automatic trigger for canonical research publication.
+
+## V1.1 editorial presentation
+
+The 5 November 2026 V1.1 release corrects the distinction between public source notes and private canonical reports, presents distinct source-supported methods/actions without repeating an overview, and adds /about/ with the editorial method and public corrections issue route. Full device and assisted screen-reader acceptance are not represented as complete.
