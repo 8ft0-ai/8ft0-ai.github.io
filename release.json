@@ -1,0 +1,11 @@
+{
+  "product": "arxiv-quant-radar-reader",
+  "source_revision": "647f2669edabbef8c70b1efbb9333754772e8620",
+  "source_visibility": "private",
+  "reports": [
+    "reports/weekly/2026/2026-W44.md",
+    "reports/monthly/2026/2026-10.md"
+  ],
+  "coverage": "qualified and incomplete",
+  "static_routes": 22
+}

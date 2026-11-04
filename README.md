@@ -1,0 +1,19 @@
+# Quant Radar Reader V1 — public static website
+
+This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
+
+Built from the separately reviewed and merged private source commit \`647f2669edabbef8c70b1efbb9333754772e8620\` in \`8ft0-ai/arxiv-quant-radar\`.
+
+- Static output: 22 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
+- Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
+- No accounts, server runtime, analytics or remote inference.
+- Initial public release retains \`noindex,nofollow\` pending physical iPhone and assisted screen-reader acceptance.
+
+## Updating and rollback
+
+1. Review and merge a source change in the private research repository.
+2. At the merged exact commit, run \`cd reader && npm ci --no-audit --no-fund && npm run check\`.
+3. Replace **only the compiled output** in this public repository; keep \`.nojekyll\` and this README, commit and push to \`main\`.
+4. Verify the published homepage, a paper, source notes, dashboard and assets. If verification fails, revert the public repository release commit and push to \`main\` to restore the prior deployment.
+
+Tracked in source Issue #475. Public Pages hosting is not an automatic trigger for canonical research publication.
