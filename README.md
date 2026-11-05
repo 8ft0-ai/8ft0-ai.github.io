@@ -2,7 +2,7 @@
 
 This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
 
-Built from the separately reviewed and merged private source commit \`38b6167ee5031f18e6233445f54889d809b189ee\` in \`8ft0-ai/arxiv-quant-radar\`.
+Built from the separately reviewed and merged private source commit \`96f9a2e6bd143afdd50061bd2713f9eb2c10036b\` in \`8ft0-ai/arxiv-quant-radar\`.
 
 - Static output: 23 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
 - Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
@@ -29,3 +29,7 @@ The 5 November 2026 edition adds five technical briefs grounded in selected sect
 ## V1.2 — editorial promise
 
 The editorial standard is published on /about/ and versioned in the private source reader/docs/featured-article-standard.md. Featured technical analyses must state what the research found, why it matters and how the claim could be tested, with explicit source attribution, limitations and no claim of independent replication. Shorter index entries remain suitable when the evidence gate cannot be met. The five existing enhanced manuscript notes are unchanged. Noindex,nofollow and physical accessibility acceptance limits remain.
+
+## North Star charter (6 November 2026)
+
+The private canonical source now preserves a founding charter in docs/north-star.md. The public homepage and /about/#north-star present its mission: turn quantitative research into better research decisions, with personal research utility first and publicly challengeable, evidence-grounded interpretation. Research actions are proposed, not executed. Static-only release; noindex,nofollow and physical accessibility acceptance limitations remain unchanged.
