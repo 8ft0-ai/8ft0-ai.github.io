@@ -2,7 +2,7 @@
 
 This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
 
-Built from the separately reviewed and merged private source commit \`a01f9a3e42bae17b883116e509d3f1ee28861c9f\` in \`8ft0-ai/arxiv-quant-radar\`.
+Built from the separately reviewed and merged private source commit \`38b6167ee5031f18e6233445f54889d809b189ee\` in \`8ft0-ai/arxiv-quant-radar\`.
 
 - Static output: 23 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
 - Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
@@ -25,3 +25,7 @@ The 5 November 2026 V1.1 release corrects the distinction between public source 
 ## V1.2 — manuscript-grounded technical depth
 
 The 5 November 2026 edition adds five technical briefs grounded in selected sections of the original version-pinned author manuscripts: both weekly Read properly papers, MintEval, Availability Contract, and Backtests vs Live. Each provides author-reported measurements, method, interpretation, paper-specific limitations, and one proposed falsification question. Canonical editorial source reports retain Abstract + metadata depth; no independent replication, code/data audit or trading advantage is claimed. Internal manuscript SHA-256 evidence stays in the private source repository. Noindex/nofollow remains until real-device and assisted-screen-reader acceptance.
+
+## V1.2 — editorial promise
+
+The editorial standard is published on /about/ and versioned in the private source reader/docs/featured-article-standard.md. Featured technical analyses must state what the research found, why it matters and how the claim could be tested, with explicit source attribution, limitations and no claim of independent replication. Shorter index entries remain suitable when the evidence gate cannot be met. The five existing enhanced manuscript notes are unchanged. Noindex,nofollow and physical accessibility acceptance limits remain.
