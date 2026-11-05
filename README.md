@@ -2,7 +2,7 @@
 
 This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
 
-Built from the separately reviewed and merged private source commit \`8f125db5ab7a0fb96f043d4f515bc449ea6b94b3\` in \`8ft0-ai/arxiv-quant-radar\`.
+Built from the separately reviewed and merged private source commit \`a01f9a3e42bae17b883116e509d3f1ee28861c9f\` in \`8ft0-ai/arxiv-quant-radar\`.
 
 - Static output: 23 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
 - Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
@@ -21,3 +21,7 @@ Tracked in source Issue #475. Public Pages hosting is not an automatic trigger f
 ## V1.1 editorial presentation
 
 The 5 November 2026 V1.1 release corrects the distinction between public source notes and private canonical reports, presents distinct source-supported methods/actions without repeating an overview, and adds /about/ with the editorial method and public corrections issue route. Full device and assisted screen-reader acceptance are not represented as complete.
+
+## V1.2 — manuscript-grounded technical depth
+
+The 5 November 2026 edition adds five technical briefs grounded in selected sections of the original version-pinned author manuscripts: both weekly Read properly papers, MintEval, Availability Contract, and Backtests vs Live. Each provides author-reported measurements, method, interpretation, paper-specific limitations, and one proposed falsification question. Canonical editorial source reports retain Abstract + metadata depth; no independent replication, code/data audit or trading advantage is claimed. Internal manuscript SHA-256 evidence stays in the private source repository. Noindex/nofollow remains until real-device and assisted-screen-reader acceptance.
