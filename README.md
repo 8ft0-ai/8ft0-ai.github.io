@@ -2,7 +2,7 @@
 
 This repository contains **only the compiled static website**. The canonical research repository, underlying Markdown reports, screening state and publication workflows remain private and are not copied here.
 
-Built from the separately reviewed and merged private source commit \`96f9a2e6bd143afdd50061bd2713f9eb2c10036b\` in \`8ft0-ai/arxiv-quant-radar\`.
+Built from the separately reviewed and merged private source commit \`a7dfccb2c075d305ec7c706ea22f7cc9528d54af\` in \`8ft0-ai/arxiv-quant-radar\`.
 
 - Static output: 23 pages, including the weekly magazine, 17 paper briefs, dashboard, library and two public source-note pages.
 - Original source qualifications: Week 44 was qualified partial historical curation, October was an incomplete research digest; evidence depth is **Abstract + metadata**.
@@ -33,3 +33,7 @@ The editorial standard is published on /about/ and versioned in the private sour
 ## North Star charter (6 November 2026)
 
 The private canonical source now preserves a founding charter in docs/north-star.md. The public homepage and /about/#north-star present its mission: turn quantitative research into better research decisions, with personal research utility first and publicly challengeable, evidence-grounded interpretation. Research actions are proposed, not executed. Static-only release; noindex,nofollow and physical accessibility acceptance limitations remain unchanged.
+
+## V1.3 — research-first editorial revision (10 November 2026)
+
+Compiled from reviewed source a7dfccb2c075d305ec7c706ea22f7cc9528d54af (PR #501, Issue #500). The Magazine and Research Landscape foreground source-grounded findings, independent interpretations, counterexamples and falsifiable tests; seven manuscript-informed article analyses are distinguished from ten concise notes. Evidence-depth labels, incomplete-cohort disclosures, original manuscript links and the public/private report boundary remain unchanged. Browser accessibility and scientific review evidence is recorded in private Issue #500. This release is static only; noindex,nofollow remains. Roll back with a Git revert of this public release commit if live acceptance fails.
